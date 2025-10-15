@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables (NEVER COMMIT CREDENTIALS)
+.env
+.env.local
+.env.*.local
+
+# Model Files (Large, trained locally)
+artifacts/*.pkl
+artifacts/*.model
+*.pkl
+*.model
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.out
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Keep these files (negation)
+!.env.example
+!artifacts/.gitkeep
+```
+
+---
+
+## **Create Empty Artifacts Folder Placeholder:**
+
+**Create `backend/artifacts/.gitkeep`:**
+```
+# This file keeps the artifacts/ directory in git
+# Actual model files (.pkl) are gitignored

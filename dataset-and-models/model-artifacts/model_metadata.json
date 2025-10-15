@@ -1,0 +1,38 @@
+{
+  "features": [
+    "Transaction_Amount",
+    "Transaction_Type",
+    "Account_Balance",
+    "Device_Type",
+    "Location",
+    "Merchant_Category",
+    "IP_Address_Flag",
+    "Previous_Fraudulent_Activity",
+    "Daily_Transaction_Count",
+    "Avg_Transaction_Amount_7d",
+    "Failed_Transaction_Count_7d",
+    "Card_Type",
+    "Card_Age",
+    "Transaction_Distance",
+    "Authentication_Method",
+    "Is_Weekend",
+    "hour_of_day",
+    "day_of_week",
+    "is_unusual_hour",
+    "amount_deviation_ratio",
+    "is_high_value",
+    "is_new_device"
+  ],
+  "n_features": 22,
+  "auc_score": 0.8101352419926795,
+  "fraud_ratio": 2.112059006487159,
+  "training_samples": 35020,
+  "categorical_features": [
+    "Transaction_Type",
+    "Device_Type",
+    "Location",
+    "Merchant_Category",
+    "Card_Type",
+    "Authentication_Method"
+  ]
+}
