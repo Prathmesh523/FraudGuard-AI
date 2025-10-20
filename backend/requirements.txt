@@ -8,14 +8,8 @@ boto3
 
 # Machine Learning
 xgboost
-scikit-learn
 pandas
 numpy
-
-# Deep Learning (Deepfake Detection)
-# tensorflow
-# opencv-python
-# deepface
 
 # Data Validation
 pydantic
@@ -23,8 +17,7 @@ pydantic
 # Environment Variables
 python-dotenv
 
-# Image Processing
-pillow
 
 # Utilities
 python-dateutil
+requests
