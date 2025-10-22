@@ -24,9 +24,10 @@ FraudGuard AI is an AI-driven platform for detecting payment fraud and deepfake-
 - Backend: FastAPI service (ECS / Fargate or local for development)
 - Agents:
   - Transaction Monitoring (XGBoost)
-  - Evidence Collector (behavioral analytics)
-  - Deepfake Detector (SageMaker computer vision)
-  - Risk Assessment (LLM-assisted synthesis)
+  - Deepfake Detection (SageMaker computer vision)
+  - Evidence Collector Agent (Gathers User's Historical Transaction Data to study patterns)
+  - Risk Assessment (Combines Insights of first 3 agents)
+  - Escalation Handler Agent (Escalates the the fraudulent transaction reports)
 - Storage & Infra: S3 (photos, models, logs), DynamoDB (transactions), SageMaker, Amazon Bedrock (LLM access)
 - Observability: CloudWatch, CloudTrail, X-Ray
 
