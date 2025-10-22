@@ -11,9 +11,10 @@ FraudGuard AI is an AI-driven platform for detecting payment fraud and deepfake-
 
 ## Project Gallery
 <div style="display: flex; justify-content: center;">
-  <img width="330" height="330" style="margin-right: 10px alt="image1" src="https://github.com/user-attachments/assets/d452d388-5a87-4e66-b3fe-f7eca6303232" />
-  <img width="330" height="330" style="margin-right: 10px alt="image2" src="https://github.com/user-attachments/assets/0cfee5b8-0456-4038-bd5d-d8fbbdf2819e" />
-  <img width="330" height="330" style="margin-right: 10px alt="image3" src="https://github.com/user-attachments/assets/507852f0-f747-45d9-b47c-53280f87e4e6" />
+  <img width="360" height="360" style="margin-right: 10px alt="image1" src="https://github.com/user-attachments/assets/d452d388-5a87-4e66-b3fe-f7eca6303232" />
+  <img width="360" height="360" style="margin-right: 10px alt="image2" src="https://github.com/user-attachments/assets/0cfee5b8-0456-4038-bd5d-d8fbbdf2819e" />
+  <img width="360" height="360" style="margin-right: 10px alt="image3" src="https://github.com/user-attachments/assets/d2fc9b58-0061-49ad-bdb2-c9bb707470e9" />
+  <img width="360" height="360" style="margin-right: 10px alt="image4" src="https://github.com/user-attachments/assets/507852f0-f747-45d9-b47c-53280f87e4e6" />
 </div>
 
 
