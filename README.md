@@ -9,6 +9,10 @@
 
 FraudGuard AI is an AI-driven platform for detecting payment fraud and deepfake-based identity spoofing. It combines machine learning, computer vision, and LLM-assisted explainability to provide auditable risk scores and CSR-friendly explanations.
 
+## Project Gallery
+<img width="1198" height="1098" alt="image" src="https://github.com/user-attachments/assets/07513ce9-02dc-4205-847d-4f3376e4d379" />
+
+
 ## Architecture (high level)
 
 - Frontend: React (Vite) UI for bank staff and integrations
